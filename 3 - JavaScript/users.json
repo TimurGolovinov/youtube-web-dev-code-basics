@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Tim",
+        "description": "Hey, check out my photos",
+        "avatar": "https://www.flexgigzz.com/employer/sean-royston/sean.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Alex",
+        "description": "I am a photographer and traveller",
+        "avatar": "https://i.pinimg.com/236x/74/b1/49/74b1493ff041692f567f2f2f03ee19b1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sergey",
+        "description": "I love nature and animals",
+        "avatar": "https://i.pinimg.com/originals/60/a5/ab/60a5ab38459ef3cede27b01c4a0af17d.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Gor",
+        "description": "I love my BMW",
+        "avatar": "https://images.unsplash.com/photo-1546456073-92b9f0a8d413?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YmxhY2slMjBwZXJzb258ZW58MHx8MHx8&w=1000&q=80"
+      },
+      {
+        "id": 5,
+        "name": "Roman",
+        "description": "I do video editing and photography",
+        "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFsZSUyMHBvcnRyYWl0c3xlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      {
+        "id": 6,
+        "name": "Taras",
+        "description": "",
+        "avatar": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/e9479d19288123.562d7db2dce3d.jpg"
+      }
+]
